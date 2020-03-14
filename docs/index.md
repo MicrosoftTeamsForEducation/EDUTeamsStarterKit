@@ -1,6 +1,6 @@
-# Microsoft Teams for Education Starterkit
+# Microsoft Teams for Education Starter Kit
 
-## Whats the purpose  of this Starterkit?
+## Whats the purpose  of this Starter Kit?
 
 ## Overview and Why Teams?
 
